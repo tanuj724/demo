@@ -1,3 +1,3 @@
 # demo
 first repository
-Aurs 80000+
+Aura 80000+
